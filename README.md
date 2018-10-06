@@ -1,4 +1,4 @@
-# Mini-Shell
+# Mini Shell
 First project for the subject Operating Systems, which consisted in developing a basic shell.
 
 
