@@ -13,7 +13,7 @@ The following commands where implemented:
 * exit
 * input/output redirection - |, <, >
 * background execution - &
-ex.:
+#### Example:
 ``` bash
 $ ./my_prompt
 my_prompt$ cat < my_prompt.c | grep fork > test.txt
